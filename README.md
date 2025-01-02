@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on improving my Github stats!
+- 🔭 I’m currently working on improving my Github and LeetCode stats!
 - 🌱 I’m currently learning React Native, new mobile app project coming soon!
 - 💬 Ask me about Spongebob seasons 1-3!
 
@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 <!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rimabouhal&theme=city_light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 -->
+![](https://leetcard.rimabouhal.cool/leetcode?site=cn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/RimaBouhal?ext=heatmap)
 
 -----
 [![](https://visitcount.itsvg.in/api?id=rimabouhal&icon=2&color=12)](https://visitcount.itsvg.in)
