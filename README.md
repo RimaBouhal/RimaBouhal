@@ -27,11 +27,15 @@ Here are some ideas to get you started:
 ### 📊 My Stats
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=rimabouhal&theme=city_light&hide_border=false&include_all_commits=false&count_private=true)
--->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rimabouhal&theme=city_light&hide_border=false)<br/>
-<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rimabouhal&theme=city_light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 -->
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimabouhal&theme=city_light&hide_border=false" alt="GitHub Streak Stats" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimabouhal&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="175"/>
+</p>
+
 ![](https://leetcard.rimabouhal.cool/leetcode?site=cn)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/RimaBouhal?ext=heatmap)
 
