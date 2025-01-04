@@ -61,8 +61,8 @@ Here are some ideas to get you started:
 ### :octocat: Github Stats
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimabouhal&theme=city_light&hide_border=false" alt="GitHub Streak Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimabouhal&theme=city_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimabouhal&theme=city_light&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Streak Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimabouhal&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="150"/>
 </p>
 
 <!--
