@@ -73,9 +73,10 @@ As part of my 2025 New Year's resolution, I am commited to tackling the Leetcode
 -->
 
 -----
+<!--
 <p>
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=rimabouhal&icon=2&color=12" alt="Visit Count"/>
   </a>
 </p>
-
+-->
