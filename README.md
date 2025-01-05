@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 - 🌱 I’m learning React Native, new mobile app project coming soon!
 - 💬 Ask me about Spongebob seasons 1-3!
 
-<a href="https://linkedin.com/in/rimabouhal">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
+<p>
+  <a href="https://linkedin.com/in/rimabouhal"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://leetcode.com/u/RimaBouhal/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/></a>
+</p>
 
 -----
 ### 💻 My Tech Skills
