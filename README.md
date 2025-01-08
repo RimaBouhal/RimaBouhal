@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 💼 Open to work!
 - 🔭 I’m currently working on improving my Github and LeetCode stats!
 - 🌱 I’m learning React Native, new mobile app project coming soon!
 - 💬 Ask me about Spongebob seasons 1-3!
